@@ -1,0 +1,12 @@
+{
+  "name": "express-demo2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "express": "~4.16.1"
+  }
+}
